@@ -3,7 +3,7 @@
 ## Project setup
 ```
 npm install
-xd
+#xd2
 ```
 
 ### Compiles and hot-reloads for development
